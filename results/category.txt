@@ -1,0 +1,97 @@
+TotalQuestions.NET:		638943
+AcceptedAnswers.NET:		415395
+UnansweredCount.NET:		121527
+TotalQuestionRatio.NET:		18.5
+AcceptedRatio.NET:		65.0
+UnansweredRatio.NET:		19.02
+
+TotalQuestionsJava:		556053
+AcceptedAnswersJava:		326403
+UnansweredCountJava:		130895
+TotalQuestionRatioJava:		16.1
+AcceptedRatioJava:		58.7
+UnansweredRatioJava:		23.54
+
+TotalQuestionsWeb:		524969
+AcceptedAnswersWeb:		337555
+UnansweredCountWeb:		106411
+TotalQuestionRatioWeb:		15.2
+AcceptedRatioWeb:		64.3
+UnansweredRatioWeb:		20.27
+
+TotalQuestionsLAMP:		455894
+AcceptedAnswersLAMP:		283110
+UnansweredCountLAMP:		95829
+TotalQuestionRatioLAMP:		13.2
+AcceptedRatioLAMP:		62.1
+UnansweredRatioLAMP:		21.02
+
+TotalQuestionsC/C++:		328105
+AcceptedAnswersC/C++:		218190
+UnansweredCountC/C++:		43179
+TotalQuestionRatioC/C++:	9.5
+AcceptedRatioC/C++:		66.5
+UnansweredRatioC/C++:		13.16
+
+TotalQuestionsOOP:		224493
+AcceptedAnswersOOP:		150635
+UnansweredCountOOP:		34707
+TotalQuestionRatioOOP:		6.5
+AcceptedRatioOOP:		67.1
+UnansweredRatioOOP:		15.46
+
+TotalQuestionsiOS:		203771
+AcceptedAnswersiOS:		125523
+UnansweredCountiOS:		49211
+TotalQuestionRatioiOS:		5.9
+AcceptedRatioiOS:		61.6
+UnansweredRatioiOS:		24.15
+
+TotalQuestionsDatabases:	189956
+AcceptedAnswersDatabases:	128410
+UnansweredCountDatabases:	28132
+TotalQuestionRatioDatabases:	5.5
+AcceptedRatioDatabases:		67.6
+UnansweredRatioDatabases:	14.81
+
+TotalQuestionsPython:		158872
+AcceptedAnswersPython:		107874
+UnansweredCountPython:		22051
+TotalQuestionRatioPython:	4.6
+AcceptedRatioPython:		67.9
+UnansweredRatioPython:		13.88
+
+TotalQuestionsRuby:		120881
+AcceptedAnswersRuby:		79661
+UnansweredCountRuby:		24599
+TotalQuestionRatioRuby:		3.5
+AcceptedRatioRuby:		65.9
+UnansweredRatioRuby:		20.35
+
+TotalQuestionsStrings:		110520
+AcceptedAnswersStrings:		79574
+UnansweredCountStrings:		12069
+TotalQuestionRatioStrings:	3.2
+AcceptedRatioStrings:		72.0
+UnansweredRatioStrings:		10.92
+
+TotalQuestionsMVC:		69075
+AcceptedAnswersMVC:		47109
+UnansweredCountMVC:		12413
+TotalQuestionRatioMVC:		2.0
+AcceptedRatioMVC:		68.2
+UnansweredRatioMVC:		17.97
+
+TotalQuestionsAdobe:		41445
+AcceptedAnswersAdobe:		23872
+UnansweredCountAdobe:		11323
+TotalQuestionRatioAdobe:	1.2
+AcceptedRatioAdobe:		57.6
+UnansweredRatioAdobe:		27.32
+
+TotalQuestionsSCM:		27630
+AcceptedAnswersSCM:		19037
+UnansweredCountSCM:		3678
+TotalQuestionRatioSCM:		0.8
+AcceptedRatioSCM:		68.9
+UnansweredRatioSCM:		13.31

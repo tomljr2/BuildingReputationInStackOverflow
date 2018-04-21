@@ -1,0 +1,7 @@
+TotalQuestions:		3453742
+AcceptedAnswers:	2148455
+UnansweredCount:	731502
+No-ResponseCount:	299952
+AcceptedRatio:		62.21
+UnansweredRatio:	21.18
+No-ResponseRatio:	8.68
