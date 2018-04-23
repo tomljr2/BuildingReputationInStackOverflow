@@ -64,3 +64,15 @@ Files:
 
 	This shows the results of queries and hand-calculations for the
 	experts category.
+
+	dowqueries.sql
+
+	This file contains the queries used to get information about
+	individual days of the week's activity from the database.
+
+	dow.txt
+
+	These are the results from the query and hand calculations made
+	from the results of the query. Each result label is followed by a
+	character (U,M,T,W,R,F,S). These represent the days of the week
+	beginning with Sunday and ending with Saturday.
