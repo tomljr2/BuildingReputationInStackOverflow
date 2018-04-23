@@ -45,7 +45,9 @@ Files:
 	categoryquery.sql
 
 	Using the results of the Gephi implementation, each category (made up
-	of certain tags) is queried for different metrics.
+	of certain tags) is queried for different metrics. Since there are 122
+	tags, I have omitted all of the ones not listed under "Top Areas"in
+	the chart from the research paper.
 
 	category.txt
 
