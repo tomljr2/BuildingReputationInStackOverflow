@@ -1,0 +1,11 @@
+TotalGold:		806
+TotalSilver:		1234
+TotalGoldOrSilver:	2040
+TotalContributors:	443360
+ExpertRatio:		0.5
+TotalAnswers:		6858133
+ExpertAnswers:		1988859
+AnswerRatio:		0.29
+TotalAcceptedAnswers:	2148452
+ExpertAcceptedAnswers:	687505
+AcceptedAnswerRatio:	0.32

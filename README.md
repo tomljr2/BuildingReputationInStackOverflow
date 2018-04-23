@@ -54,3 +54,13 @@ Files:
 	This file shows the results of the metrics applied to each of the
 	Gephi categories. There 14 categories which are listed at the end
 	of each metric.
+
+	expertqueries.sql
+
+	This shows the queries used to get information on the "experts" of
+	stackoverflow.
+
+	experts.txt
+
+	This shows the results of queries and hand-calculations for the
+	experts category.
