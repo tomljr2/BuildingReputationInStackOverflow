@@ -76,3 +76,26 @@ Files:
 	from the results of the query. Each result label is followed by a
 	character (U,M,T,W,R,F,S). These represent the days of the week
 	beginning with Sunday and ending with Saturday.
+
+	intervalqueries.sql
+
+	This file is using the StackOverflow online query to get the results
+	since the postGRESql database did not use dates as a timestamp, so I
+	could not get a specific time. Unfortunately, stack overflow only
+	allows 50000 results to be returned, so the median interval is not
+	the same as the research paper.
+
+	intervalSS.csv
+
+	This is the file that was used in Excel to find the difference
+	between the two times and the median of them all.
+
+	intervalAASS.csv
+
+	This is the same as intervalSS, but for the accepted answer interval
+	and not the first answer interval.
+
+	interval.txt
+
+	This is the results of the queries once they were imported to 
+	Microsoft Excel and the difference and median was taken. 
