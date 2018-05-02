@@ -110,3 +110,8 @@ Files:
 	These are the results of the queries on the ten fastest users. The
 	first ten results listed are the user id (UID) of each user. Then
 	following results are labeled in the same order of users.
+
+	FinalReport.pdf
+
+	This pdf is the final report of my findings comparing my results to
+	the paper's, and drawing conclusion from it.
