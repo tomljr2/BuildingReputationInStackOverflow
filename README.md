@@ -99,3 +99,14 @@ Files:
 
 	This is the results of the queries once they were imported to 
 	Microsoft Excel and the difference and median was taken. 
+
+	fcqueries.sql
+
+	These contain queries used on the 10 fastest contributors to reach
+	a score of 20000 to get different metrics. 
+
+	fc.txt
+
+	These are the results of the queries on the ten fastest users. The
+	first ten results listed are the user id (UID) of each user. Then
+	following results are labeled in the same order of users.
